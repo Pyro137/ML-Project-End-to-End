@@ -1,11 +1,13 @@
-## End To end ML project
+## End to end ML project
 
-'''bash
+```bash
 conda create -n mlproj
-'''
-'''bash
+```
+
+```bash
 conda activate mlproj
-'''
-'''bash
+```
+
+```bash
 pip install -r requirements.txt
-'''
+```
